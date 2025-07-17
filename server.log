@@ -1,0 +1,45 @@
+
+> stellar_landing_0bb81063@0.1.0 dev
+> next dev --turbopack --port 52802 --hostname 0.0.0.0
+
+   ▲ Next.js 15.4.1 (Turbopack)
+   - Local:        http://localhost:52802
+   - Network:      http://0.0.0.0:52802
+
+ ✓ Starting...
+ ✓ Ready in 862ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.3s
+ GET / 200 in 2561ms
+ GET / 200 in 71ms
+ GET / 200 in 54ms
+ GET / 200 in 81ms
+ GET /?t=1752770870401 200 in 68ms
+ GET / 200 in 51ms
+ GET /?t=1752770870593 200 in 58ms
+ GET / 200 in 53ms
+ GET /?t=1752770880398 200 in 60ms
+ GET / 200 in 55ms
+ GET /?t=1752770880572 200 in 49ms
+ GET / 200 in 50ms
+ GET /?t=1752770891143 200 in 90ms
+ GET / 200 in 85ms
+ GET /?t=1752770891407 200 in 66ms
+ GET / 200 in 54ms
+ GET /?t=1752770901140 200 in 57ms
+ GET / 200 in 51ms
+ GET /?t=1752770901372 200 in 52ms
+ GET / 200 in 47ms
+ GET /?t=1752770911144 200 in 44ms
+ GET / 200 in 45ms
+ GET /?t=1752770911325 200 in 46ms
+ GET / 200 in 40ms
+ GET / 200 in 97ms
+ GET /?t=1752770921807 200 in 47ms
+ GET / 200 in 71ms
+ GET / 200 in 51ms
+ GET /?t=1752770972428 200 in 51ms
+ GET / 200 in 47ms
+ GET /?t=1752770982094 200 in 49ms
+ GET / 200 in 48ms
+ GET /?t=1752770982389 200 in 44ms
